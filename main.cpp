@@ -11,6 +11,6 @@ int gcd(int m,int n){
 }
 
 int main() {
-    cout << gcd(60,24) << endl;
+    cout << gcd(24,60) << endl;
     return 0;
 }
