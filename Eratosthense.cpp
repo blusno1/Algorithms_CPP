@@ -28,6 +28,7 @@ void cal(int m){
                 printf("\n");
         }
     }
+    free(intArray);
 }
 
 int main(){
